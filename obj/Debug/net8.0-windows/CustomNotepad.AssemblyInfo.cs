@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomNotepad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab21c3a6bb95dd976f67ab9aa6b924de537c790a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomNotepad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomNotepad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
